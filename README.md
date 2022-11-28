@@ -7,10 +7,10 @@
 > React | Components and Props
 
 ## Main points: React
-- Librería de Javascript para crear interfaces de usuario, también en formato **Single Page Application**.
-- La transferencia de información entre componentes se realiza a través de `props` a través de un flujo unidireccional.
-- La prop `children` recoge todos los elementos anidados dentro de un componente.
-- El paquete global `create-react-app` cubre todos los requerimientos para comenzar un proyecto de React: 
+* Librería de Javascript para crear interfaces de usuario, también en formato **Single Page Application**.
+* La transferencia de información entre componentes se realiza a través de `props` a través de un flujo unidireccional.
+* La prop `children` recoge todos los elementos anidados dentro de un componente.
+* El paquete global `create-react-app` cubre todos los requerimientos para comenzar un proyecto de React: 
 
   ````npx create-react-app nombre-proyecto````
 
