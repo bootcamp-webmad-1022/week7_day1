@@ -14,7 +14,7 @@
 
   ````npx create-react-app nombre-proyecto````
 
-## Main points: Componentes
+## Main points: Componentes funcionales
 
 Los componentes funcionales:
    * Son funciones de Javascript
